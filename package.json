@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "@hono/node-server": "1.8.2",
-    "@notionhq/client": "2.2.14",
+    "@notionhq/client": "2.3.0",
     "@postlight/parser": "2.2.3",
     "@sentry/node": "7.105.0",
     "@tonyrl/rand-user-agent": "2.0.53",
